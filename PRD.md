@@ -71,7 +71,7 @@ Primary interaction surface for analysis.
 --------------------------------------------------
 | Top Bar: Project | Export | Settings           |
 --------------------------------------------------
-| Layers Panel |        Map Canvas               |
+| Layers Panel  |        Map Canvas              |
 |               |                                |
 |               |                                |
 --------------------------------------------------
@@ -140,7 +140,7 @@ Canopy cover percentage per grid cell (30m–100m resolution).
 - Export statistics
 
 ### Climate Impact Rationale
-High-density forests represent major carbon stocks and biodiversity zones.  
+High-density forests represent major carbon stocks and biodiversity zones.
 Avoiding these areas reduces emissions, ecosystem loss, and climate risk.
 
 ---

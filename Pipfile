@@ -9,6 +9,9 @@ supabase = "*"
 python-decouple = "*"
 psycopg = {extras = ["pool", "binary"], version = "*"}
 djangorestframework = "*"
+djangorestframework-gis = "*"
+rasterio = "*"
+rio-cogeo = "*"
 
 [dev-packages]
 
