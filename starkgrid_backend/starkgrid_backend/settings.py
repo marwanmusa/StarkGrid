@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis',
+    'django.contrib.postgres',
     #apps
     'canopy',
     'rest_framework',
@@ -114,6 +115,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+
+GDAL_LIBRARY_PATH = config(
+    'GDAL_LIBRARY_PATH',
+    default='/opt/homebrew/opt/gdal/lib/libgdal.dylib',
+)
+GEOS_LIBRARY_PATH = config(
+    'GEOS_LIBRARY_PATH',
+    default='/opt/homebrew/opt/geos/lib/libgeos_c.dylib',
+)
 
 try:
     from .local_settings import *
