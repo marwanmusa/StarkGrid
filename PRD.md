@@ -1,16 +1,16 @@
 # StarkGrid – Product Requirements Document (PRD)
-**Version:** 0.1  
-**Product Type:** Web & Mobile (Map-First Dashboard)  
+**Version:** 0.1
+**Product Type:** Web & Mobile (Map-First Dashboard)
 **Domain:** Climate Intelligence, Renewable Energy, Geospatial Analytics
 
 ---
 
 ## 0. Product Vision
 
-**StarkGrid** is a map-first web and mobile application for **climate-aware renewable energy planning**.  
+**StarkGrid** is a map-first web and mobile application for **climate-aware renewable energy planning**.
 It enables users to analyze **energy potential, climate risk, and ecological impact together**, rather than in isolation.
 
-**Core Principle**  
+**Core Principle**
 > Every energy decision should be evaluated against climate, ecology, and resilience constraints.
 
 ---
