@@ -1,3 +1,1 @@
-"""
-Management commands for canopy app.
-"""
+# Makes the commands package importable.
